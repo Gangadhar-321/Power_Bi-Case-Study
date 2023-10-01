@@ -1,0 +1,101 @@
+Date,Region,Product Category,Sales Amount (USD),Revenue (USD),Customer ID,Marketing Channel
+2020-03-27,South,Electronics,8885,6227,UZQV7,Social Media
+2021-02-23,North,Electronics,6967,8818,YW4XQ,Direct Mail
+2022-02-25,South,Toys,1107,7855,A7SIB,Direct Mail
+2022-02-17,South,Furniture,5330,2880,DKAWJ,Direct Mail
+2023-09-04,West,Toys,3673,8347,ZFRLW,Online Ads
+2023-02-28,North,Furniture,8210,6185,I3Z2S,Direct Mail
+2021-08-25,North,Apparel,6906,6119,W8ZHJ,Online Ads
+2020-06-05,East,Apparel,6325,8776,HYM0Y,Online Ads
+2020-06-12,West,Furniture,5922,2523,K60ZC,Email
+2021-07-26,South,Apparel,5315,3870,AQE1O,Social Media
+2023-09-28,North,Toys,4945,5979,69RV5,Direct Mail
+2022-02-14,North,Furniture,3370,1009,1NNTZ,Direct Mail
+2023-04-09,East,Apparel,4314,8968,X3MIH,Social Media
+2021-07-05,East,Electronics,6004,7769,7IX68,Email
+2022-01-25,North,Apparel,6516,5517,Z5L1E,Online Ads
+2020-12-09,East,Apparel,5147,2728,A2YIG,Direct Mail
+2022-09-11,South,Electronics,3708,6076,MPYU1,Email
+2023-12-17,North,Apparel,7008,6811,96LF2,Online Ads
+2021-11-16,North,Furniture,2214,5974,KWGO3,Direct Mail
+2020-12-24,East,Furniture,5576,3148,I8ZU9,Email
+2022-10-22,South,Toys,9221,8805,DKRUM,Online Ads
+2020-12-01,West,Toys,5893,1095,HZ342,Social Media
+2023-03-07,West,Furniture,2431,3586,FDO7V,Email
+2023-04-28,West,Electronics,4558,8788,WO6ZX,Social Media
+2021-07-10,West,Electronics,2577,8507,NAQQ1,Social Media
+2023-09-05,East,Apparel,2511,5466,9XQCC,Online Ads
+2023-10-17,South,Toys,1917,5360,3XA2P,Online Ads
+2021-12-14,South,Furniture,4768,8632,GHD78,Social Media
+2021-08-09,East,Apparel,9515,2816,XUQCH,Email
+2021-12-07,South,Apparel,6636,6799,GZ1YX,Online Ads
+2023-06-23,West,Apparel,4178,1975,3NG8W,Online Ads
+2023-07-11,West,Electronics,4462,6755,BQ6R6,Direct Mail
+2020-06-12,West,Furniture,2472,8232,FOW8D,Direct Mail
+2021-01-08,North,Electronics,4963,2111,MO41J,Email
+2023-12-12,West,Furniture,4543,4230,DFXLV,Email
+2022-09-23,West,Electronics,2745,8592,5Y51F,Direct Mail
+2020-01-16,North,Apparel,7418,7712,S53HC,Direct Mail
+2023-04-27,West,Furniture,6968,3292,VTKD6,Direct Mail
+2022-02-01,South,Electronics,2053,4318,PZO9O,Online Ads
+2023-04-03,South,Toys,8643,1774,62QV1,Direct Mail
+2022-03-28,North,Electronics,9974,2757,DU8Y0,Social Media
+2021-04-07,West,Toys,6374,6454,AFDXT,Social Media
+2021-01-10,East,Apparel,2552,2181,MQYWX,Direct Mail
+2023-05-19,South,Apparel,9360,3686,JM2TE,Email
+2023-05-17,East,Apparel,9768,4004,3S94Z,Social Media
+2023-01-06,West,Toys,8605,7664,FLVUM,Email
+2021-09-19,South,Toys,2374,4161,HU2JM,Direct Mail
+2023-05-11,West,Furniture,4518,6364,NTTX2,Social Media
+2022-11-18,West,Furniture,5338,4864,5XN3P,Online Ads
+2020-10-12,East,Electronics,2619,8095,Y0WPO,Email
+2020-08-07,North,Apparel,6091,898,75VRC,Online Ads
+2020-08-25,West,Toys,8449,6660,8NLX6,Direct Mail
+2021-04-28,North,Furniture,8679,5523,ERXXU,Email
+2020-06-22,South,Apparel,6618,5919,K908X,Email
+2021-07-02,South,Apparel,9632,8818,K07N0,Email
+2020-11-08,South,Electronics,2680,6238,HMNEO,Direct Mail
+2021-03-22,South,Furniture,7347,3221,PO6SS,Email
+2022-08-22,North,Toys,4995,2535,MHV9H,Email
+2021-12-25,West,Apparel,9671,6093,DYKUD,Email
+2023-11-07,West,Apparel,9099,4557,PTZNT,Online Ads
+2022-01-23,West,Electronics,7303,7687,J3CIS,Direct Mail
+2020-09-16,East,Furniture,5290,4772,4UVN1,Email
+2022-08-04,East,Furniture,6234,5314,NXBMI,Direct Mail
+2022-02-04,West,Apparel,9980,8459,WPQNW,Online Ads
+2020-09-07,South,Apparel,5040,6892,BN0YC,Direct Mail
+2021-07-28,West,Furniture,7286,4266,P9GQ5,Social Media
+2022-09-24,West,Apparel,6565,4748,YETMA,Online Ads
+2023-05-23,North,Apparel,9103,5290,N0LF1,Direct Mail
+2021-12-10,East,Electronics,1356,2210,I1S8X,Online Ads
+2021-02-14,West,Toys,8245,4135,COOSC,Online Ads
+2020-03-08,West,Electronics,1779,2117,08K95,Social Media
+2022-01-04,West,Electronics,7970,7293,SHN7U,Direct Mail
+2022-01-19,East,Toys,4390,8159,C66RV,Direct Mail
+2023-03-23,East,Furniture,7657,2282,TFJD9,Direct Mail
+2022-02-25,West,Toys,6310,1025,33QJ1,Online Ads
+2022-05-04,South,Electronics,6482,6571,8GSC5,Direct Mail
+2022-02-05,East,Apparel,1002,6958,IZB8R,Email
+2021-06-10,East,Furniture,6321,8350,ZCUWB,Email
+2022-06-11,North,Apparel,4756,3852,CT3SR,Online Ads
+2022-02-24,East,Electronics,5847,5744,QCZ20,Direct Mail
+2022-09-09,North,Apparel,9572,5010,VKY0N,Email
+2021-01-04,West,Apparel,3266,8492,B0LR9,Social Media
+2023-11-28,North,Electronics,5856,6539,D6ACK,Online Ads
+2021-09-02,North,Toys,1145,7444,JE5EC,Direct Mail
+2021-08-03,South,Furniture,2501,7299,QK7PD,Email
+2020-06-17,West,Toys,7801,4081,BXEWD,Social Media
+2023-05-28,West,Toys,5481,8820,FLVSN,Email
+2022-07-07,East,Furniture,4660,5667,GLZ9A,Email
+2021-05-04,North,Toys,3398,7696,JOB4H,Direct Mail
+2021-07-21,East,Electronics,3700,1708,3YQ50,Social Media
+2023-07-10,East,Toys,6773,4284,62B0W,Online Ads
+2020-12-02,East,Furniture,9950,3584,PC32F,Social Media
+2023-09-06,East,Electronics,9310,2456,SVKDG,Social Media
+2022-08-03,East,Toys,3420,6614,6QI62,Social Media
+2021-06-18,North,Electronics,6104,3554,OD9DT,Social Media
+2020-02-15,West,Toys,2168,6114,M4GE2,Social Media
+2020-08-02,West,Toys,1847,1993,6X0R6,Social Media
+2020-09-01,North,Furniture,6119,7167,0G6AC,Online Ads
+2022-08-10,East,Furniture,3556,4089,Z7LP9,Online Ads
+2022-09-22,East,Electronics,1927,4020,5IP2B,Social Media
